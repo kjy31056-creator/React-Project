@@ -12,7 +12,7 @@ class Customer extends React.Component{
                 <CustomerInfo
                     birthday={this.props.birthday}
                     gender = {this.props.gender}
-                    job = {this.props}
+                    job = {this.props.job}
                 />
             </div>
         )
