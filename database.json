@@ -1,0 +1,7 @@
+{
+    "host" :"kjydb.ceerrnustx37.ap-northeast-2.rds.amazonaws.com",
+    "user" : "user",
+    "password" :"v1241541",
+    "port" : "3306",  
+    "database" : "management_tutorial"
+}
